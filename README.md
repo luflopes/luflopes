@@ -1,12 +1,25 @@
 # Olá, Pessoal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Sejam bem vindo(a)s ao meu repositório.**
+## :v: **Sejam muito bem vindo(a)s ao meu repositório.**
 
-Meu nome é Lucas Lopes e sou um aspitrante a Cientista de Dados.
+Meu nome é Lucas Lopes, sou formado em Biotecnologia pela Universidade Federal de Alfenas e sou um aspirante a Cientista de Dados. Sou natural de Minas Gerais e, atualmente, trabalho na empresa Groupe SEB como Analista de Projetos. Há algum tempo venho estudando algumas tecnologias relacionadas à analise de dados.
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on Twitter, or on LinkedIn.
+## :books: Aprendizado
+Neste momento, estou realizando um programa de formação em Ciência de Dados oferecido pela <a href="https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados"> Data Science Academy </a>. <br><br>
+**Esta Formação inclui os cursos abaixo :point_down:**
+* Big Data Analytics com R e Microsoft Azure Machine Learning;
+* Big Data Real-Time Analytics com Python e Spark;
+* Engenharia de Dados com Hadoop e Spark;
+* Machine Learning;
+* Business Analytics;
+* Visualização de Dados e Design de Dashboards;
+* Preparação Para Carreira de Cientista de Dados.
 
-## &#x1f4c8; GitHub Stats
+## :card_file_box: Repositórios
+
+Nos repositórios do meu perfil você encontrará temas relacionados a Análise e Ciência de Dados, tais como análises exploratórias de dados, storytelling e modelos estatísticos e de machine learning.
+
+## &#x1f4c8; Estatísticas do GitHub
 <div>
 <a align="center" href="https://github.com/luflopes">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luflopes&layout=compact&langs_count=7&theme=dracula"/>
