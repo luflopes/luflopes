@@ -6,7 +6,7 @@ Meu nome é Lucas Lopes, sou formado em Biotecnologia pela Universidade Federal 
 
 ## :books: Aprendizado
 Neste momento, estou realizando um programa de formação em Ciência de Dados oferecido pela <a href="https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados"> Data Science Academy </a>. <br><br>
-**Esta Formação inclui os cursos abaixo :point_down:**
+**Esta formação inclui os cursos abaixo :point_down:**
 * Big Data Analytics com R e Microsoft Azure Machine Learning;
 * Big Data Real-Time Analytics com Python e Spark;
 * Engenharia de Dados com Hadoop e Spark;
