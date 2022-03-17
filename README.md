@@ -3,6 +3,9 @@
 
 **luflopes/luflopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<img src="https://tm.ibxk.com.br/2020/12/16/16202113844337.jpg?ims=1120x420">  
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width=50px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width=50px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px>
