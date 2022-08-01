@@ -2,7 +2,7 @@
 
 ## :v: **Sejam muito bem vindo(a)s ao meu repositório.**
 
-Meu nome é Lucas Lopes, sou formado em Biotecnologia pela Universidade Federal de Alfenas e sou um aspirante a Cientista de Dados. Sou natural de Minas Gerais e, atualmente, trabalho na empresa Groupe SEB como Analista de Projetos. Há algum tempo venho estudando algumas tecnologias relacionadas à analise de dados.
+Meu nome é Lucas Lopes, sou formado em Biotecnologia pela Universidade Federal de Alfenas e sou um aspirante a Cientista de Dados. Sou natural de Minas Gerais e, atualmente, trabalho na empresa BRT Intelligence como Analista de BI. Há algum tempo venho estudando algumas tecnologias relacionadas à analise de dados.
 
 ## :books: Aprendizado
 Neste momento, estou realizando um programa de formação em Ciência de Dados oferecido pela <a href="https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados"> Data Science Academy </a>. <br><br>
